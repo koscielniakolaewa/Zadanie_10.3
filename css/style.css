@@ -1,0 +1,22 @@
+#carousel {
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+	height: 400px;
+	overflow: hidden;
+	background: pink;
+	}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+ul {
+	width: 2000px;
+}
+
+li {
+	 list-style: none;
+	 float: none;
+}
